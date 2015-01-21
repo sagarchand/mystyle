@@ -1,0 +1,15 @@
+{
+  "name": "1cover-style",
+  "version": "1.0.0",
+  "description": "1cover Styles and style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1Cover",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.8.1"
+  }
+}
